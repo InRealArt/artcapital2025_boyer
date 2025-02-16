@@ -3,12 +3,12 @@ import styles from './ImageGrid.module.scss';
 
 export default function ImageGrid() {
   const images = [
-    'senechal1.jpg',
-    'senechal2.jpg',
-    'senechal3.jpg',
-    'senechal4.jpg',
-    'senechal5.jpg',
-    'senechal6.jpg',
+    'boyer1.jpg',
+    'boyer2.jpg',
+    'boyer3.jpg',
+    'boyer4.jpg',
+    'boyer5.jpg',
+    'boyer6.jpg', 
   ];
 
   return (
