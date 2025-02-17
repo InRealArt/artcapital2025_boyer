@@ -25,7 +25,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "InRealArt",
-  description: "Artshow Paris 2025",
+  description: "ArtCapital Paris 2025 - Jean-Paul Boyer",
 };
 
 export default async function RootLayout({
