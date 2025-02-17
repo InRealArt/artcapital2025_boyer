@@ -21,7 +21,7 @@ const Testimonials = () => {
     </div>
     <div className={styles.containerTestimonials}>
       <div className={styles.containerTestimonial1}>
-        <Image src="/img/testimonials/fboucheix.jpg" 
+        <Image src="/img/testimonials/nadine_leprince.jpg" 
           alt="François Boucheix - Artiste contemporain TOP 4 I-CAC - Témoignage sur InRealArt" 
           width={150} height={150} className={styles.testimonialImage} />
         <div className={styles.wrapperText2}>
