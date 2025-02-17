@@ -13,6 +13,7 @@ export default function ArtistProfile() {
 
         <div className={styles.text}>
         <div className={styles.artistName}>{parse(i18n[language].artist.title)}</div>
+          <div>{parse(i18n[language].artist.text1)}</div>
           <div>{parse(i18n[language].artist.text2)}</div>
         </div>
         <div className={styles.images}>

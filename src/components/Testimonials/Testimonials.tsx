@@ -22,11 +22,11 @@ const Testimonials = () => {
     <div className={styles.containerTestimonials}>
       <div className={styles.containerTestimonial1}>
         <Image src="/img/testimonials/nadine_leprince.jpg" 
-          alt="François Boucheix - Artiste contemporain TOP 4 I-CAC - Témoignage sur InRealArt" 
+          alt="Nadine Le Prince - Artiste contemporain TOP 3 I-CAC - Témoignage sur InRealArt" 
           width={150} height={150} className={styles.testimonialImage} />
         <div className={styles.wrapperText2}>
           <div className={styles.title2}>
-            <div className={styles.artist1}>François Boucheix</div>
+            <div className={styles.artist1}>Nadine Le Prince</div>
           </div>
           <div className={styles.artistText1}>
               <span className={styles.artistText11}>

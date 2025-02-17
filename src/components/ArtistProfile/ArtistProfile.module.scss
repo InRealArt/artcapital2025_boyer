@@ -37,6 +37,23 @@
   .content {
     display: flex;
     flex-direction: column;
+    gap: 30rem;
+
+    @media (max-width: 1800px) {
+      gap: 20rem;
+    }
+
+    @media (max-width: 1500px) {
+      gap: 15rem;
+    }
+
+    @media (max-width: 1340px) {
+      gap: 10rem;
+    }
+
+    @media (max-width: 768px) {
+      gap: 5rem;
+    }
 
     @media (min-width: 1340px) {
       flex-direction: row;
