@@ -36,7 +36,7 @@ const Testimonials = () => {
               <span className={styles.artistText13}>{parse(i18n[language].testimonials.ranking)}</span>
               <span
                 className={styles.artistText14}>
-                 TOP 4 I-CAC
+                 TOP 3 I-CAC
                 <br />
               </span>
           </div>
