@@ -33,7 +33,8 @@ const Testimonials = () => {
                 {parse(i18n[language].testimonials.artist1)}
                 <br />
               </span>
-              <span className={styles.artistText13}>{parse(i18n[language].testimonials.rankingArtist1)}</span>
+              <span className={styles.artistText13}>{parse(i18n[language].testimonials.styleArtist1)}</span>
+              &nbsp;
               <span
                 className={styles.artistText14}>
                 {parse(i18n[language].testimonials.rankingArtist1)}
@@ -58,7 +59,8 @@ const Testimonials = () => {
                 <br />
                 <br />
               </span>
-              <span className={styles.artistText22}> {parse(i18n[language].testimonials.rankingArtist2)}</span>
+              <span className={styles.artistText22}> {parse(i18n[language].testimonials.styleArtist2)}</span>
+              &nbsp;
               <span className={styles.artistText23}>
                 {parse(i18n[language].testimonials.rankingArtist2)}
               </span>
